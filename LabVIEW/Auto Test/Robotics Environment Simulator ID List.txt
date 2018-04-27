@@ -1,0 +1,60 @@
+Robot
+		ID: Lidar Robot Mod_R0
+				Sensor
+						ID: Lidar_Sensor
+				Joint
+						ID: Left_Wheel_Joint
+						ID: Lidar_Joint
+						ID: Back_Joint
+						ID: Back_Wheel_Joint
+						ID: Right_Wheel_Joint
+				Actuator
+						ID: Motor_Left Joint
+						ID: Motor_Back Fix Joint
+				Robot Component
+						ID: Body
+						ID: Left_Wheel
+						ID: Back_Wheel
+						ID: Back
+						ID: Right_Wheel
+
+
+Obstacle
+						ID: plate_O0
+						ID: plate_O1
+						ID: plate_O2
+						ID: plate_O3
+						ID: plate_O4
+						ID: plate_O5
+						ID: plate_O6
+						ID: plate_O7
+						ID: plate_O8
+						ID: plate_O9
+						ID: plate_O10
+						ID: plate_O11
+						ID: plate_O12
+						ID: plate_O13
+						ID: plate_O14
+						ID: plate_O15
+						ID: plate_O16
+						ID: plate_O17
+						ID: plate_O18
+						ID: plate_O19
+						ID: plate_O20
+						ID: plate_O21
+						ID: plate_O22
+						ID: plate_O23
+						ID: plate_O24
+						ID: plate_O25
+						ID: plate_O26
+						ID: plate_O27
+						ID: plate_O28
+						ID: plate_O29
+						ID: plate_O30
+						ID: plate_O31
+						ID: plate_O32
+						ID: plate_O33
+						ID: plate_O34
+						ID: plate_O35
+						ID: plate_O36
+						ID: plate_O37
